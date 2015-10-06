@@ -1,0 +1,33 @@
+¿Como es que el ver dos versiones diferentes de un archivo le ayuda a visualizar un error escrito?
+R: es tedioso recomendable trabajar con repositorios. 
+
+¿Como el tener acceso al historial completo de un archivo te hace mas eficiente como programador a alrgo termino?
+
+R: se puede visualizar, y modificar y experimentar actualizar el codigo, para alcanzar un maximo rendimiento.   
+
+¿cuales crees que sean los pro y los contra de elejir cuando hacer un commit de forma manual( como los haces con git) contra que los
+ cambios se hagan de forma automatica(como google docs lo hace)?
+
+R: un commit se hace en espacios de descanso, siempre y cuando el codigo ejecute correcta mente, es una gran ventaja hacer uso de repositorios
+
+¿por que crees que algunos sistemas de control de versiones permiten guardar los cambios de multiples archivos en un commit, mientras otros como 
+google docs manejan cada aerchivo de forma separada?
+
+por que en git son lineas de codigo, las que se maneja y este nos permite regresar a cambios anteriores, mientras google docs no permite 
+regresar a camvios anteriores. 
+
+¿Cual es el id para el commit que revierte los controles?
+R: 3884eab839af1e82c44267484cf2945a766081f3
+
+¿Cuántas líneas fueron añadidas en este commit?
+R: 3 lineas
+
+¿Cuántas líneas fueron quitadas en este commit?
+R: 7 lineas
+		
+¿De qué manera el uso de un sistema de control de versiones puede darte 
+la confianza de hacer cambios en tu proyecto que podrían dañar o alterar su funcionamiento?
+R: bastante confianza ya que puedes volver a un punto anterior, donde tu proyecto estaba corriendo sactifactoria mente
+
+¿Ahora que tienes tu entorno de trabajo configurado¿Qué te gustaría intentar hacer utilizando Git?
+en efecto, ya que de esta manera se trabaja organizado con un grupo de trabajo, y manteniendo una solo repositorio. 
