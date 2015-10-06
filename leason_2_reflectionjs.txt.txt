@@ -3,8 +3,11 @@ RONALD ALBERTO MARTINEZ PINTO
 
 1. ¿Qué pasa cuando inicializas un repositorio?, ¿Por qué es necesario hacerlo?
 
-R La carpeta .git tiene toda la información con la que el usuario no necesita interactuar directamente
+R: La carpeta .git tiene toda la información con la que el usuario no necesita interactuar directamente
 es necesarios para inizializar el entorno de trabajo. 
 
-2.  
-
+2.  ¿Como es diferente el “staging area” de una carpeta de trabajo y de un repositorio? ¿Cuál es el valor que esta ofrece?
+R:	
+el staging area nos sirve para trabajar de una manera mas ordenada
+ejemplo: si tenemos 1000 carpetas y utilizamos el staging area solo agregamos las carpetas que deseamos,
+	
