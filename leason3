@@ -3,3 +3,13 @@ on tu repositorio remote de forma automática?
 es cuestion de cada programsdor, a mi en lo personal hago pull cuando creo q es coneviente. por que estoy probando 
 codigo y si se esta guardando automaticamente es reduntante si puedo estar cambiando las lineas de codigo
 
+¿Describe las diferencias entre forks, clones y branches y di para que utilizas cada uno.?
+
+Cuando haces un fork de un repositorio, se crea un nuevo repositorio en tu cuenta de Github 
+o Bitbucket, con una URL diferente (fork).
+
+Cuando hacemos un clon de un repositorio, te bajas una copia del mismo a tu máquina. Empiezas
+a trabajar, haces modificaciones y haces un push. 
+Cuando haces el push estás modificando el repositorio que has clonado.
+
+branches es hacer una rama de nuestro repocitorio, partiendo desde la raiz.
